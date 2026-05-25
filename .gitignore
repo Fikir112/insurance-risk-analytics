@@ -1,0 +1,18 @@
+ # Data files
+data/
+*.txt
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# VS Code
+.vscode/
+# Chart outputs
+*.png
+*.jpgs
