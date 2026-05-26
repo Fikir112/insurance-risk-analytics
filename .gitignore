@@ -1,7 +1,4 @@
- # Data files
-data/
-*.txt
-*.csv
+
 
 # Python cache
 __pycache__/
@@ -13,6 +10,7 @@ venv/
 
 # VS Code
 .vscode/
+
 # Chart outputs
 *.png
-*.jpgs
+*.jpg
